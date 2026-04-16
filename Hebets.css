@@ -1,0 +1,15 @@
+.details {
+  display: none
+}
+
+.material-icons.ticket-icon {
+  display: none
+}
+
+.content {
+  color: #00703C
+}
+
+.button.mat-focus-indicator.button.mat-raised-button.mat-button-base {
+  background-color: #444A46
+}
